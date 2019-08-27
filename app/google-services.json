@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1093669835376",
+    "firebase_url": "https://room-booking-system-alpha.firebaseio.com",
+    "project_id": "room-booking-system-alpha",
+    "storage_bucket": "room-booking-system-alpha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093669835376:android:7a5426d231046203",
+        "android_client_info": {
+          "package_name": "com.alphacholera.roombookingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093669835376-s3es7vu8osddtt6uj6phgfdjibc9f872.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alphacholera.roombookingsystem",
+            "certificate_hash": "d51d64578d374ae1e712444413005c8d8d1e6d16"
+          }
+        },
+        {
+          "client_id": "1093669835376-249cc91vqd4fp4c15pr0pus7blq4ca6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD55SNcUbi-iAUc_FZVb4W_FgWH2tUWXv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093669835376-249cc91vqd4fp4c15pr0pus7blq4ca6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
